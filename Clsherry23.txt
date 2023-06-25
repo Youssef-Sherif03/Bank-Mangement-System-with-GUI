@@ -1,0 +1,3 @@
+The Balance was 0.0 and you deposited 5600.0 and your balance now is 5600.0
+The Balance was 5600.0 and your  withdraw was 300.0 and your balance now is 5300.0
+The Balance was 5300.0 and your  withdraw was 100.0 and your balance now is 5200.0
